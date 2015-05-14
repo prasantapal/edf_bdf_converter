@@ -1,0 +1,2 @@
+g++ -c edflib.c
+g++ main.c -o edf edflib.o
